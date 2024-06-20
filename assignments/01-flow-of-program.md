@@ -2,8 +2,8 @@
 
 ## Create flowchart and pseudocode for the following:
 
-<s>1. Input a year and find whether it is a leap year or not.</s>
-<s>2. Take two numbers and print the sum of both.</s>
-<s>3. Take a number as input and print the multiplication table for it.</s>
-<s>4. Take 2 numbers as inputs and find their HCF and LCM.</s>
-<s>5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.</s>
+1. <s>Input a year and find whether it is a leap year or not.</s>
+2. <s>Take two numbers and print the sum of both.</s>
+3. <s>Take a number as input and print the multiplication table for it.</s>
+4. <s>Take 2 numbers as inputs and find their HCF and LCM.</s>
+5. <s>Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.</s>
